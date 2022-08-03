@@ -380,6 +380,9 @@ form a{
    .row{
 	text-align: center;
    }
+   .col-2 h1{
+	font-size: 25px;
+	}
    .col-2, .col-3{
 	flex-basis: 100%;
    }
